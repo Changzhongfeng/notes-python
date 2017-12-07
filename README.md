@@ -4,8 +4,10 @@
 # 中文 Python 笔记
 
 > 版本：0.0.1<br>
-> 作者：李金<br>
-> 邮件：lijinwithyou@gmail.com<br>
+> 原作者：李金<br>
+> 再次修改：冯长中<br>
+> 原作者邮件：lijinwithyou@gmail.com<br>
+> 冯长中邮箱：changzhong606@163.com<br>
 
 `Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
 
@@ -15,7 +17,8 @@
 
 大部分内容来自网络。
 
-默认安装了 `Python 2.7`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
+原版本默认安装了 `Python 2.7`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
+新版本使用'python 3.x'
 
 > life is short. use python.
 
